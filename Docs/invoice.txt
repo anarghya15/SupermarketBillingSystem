@@ -1,0 +1,5 @@
+Product Number	   Product Name		Rate	   Quantity	   Amount	   Net Amount	   
+104		     Cereal Box	     160	     2		     320	     316.8	     
+109		     Sugar(per kg)	     90	     2		     180	     178.2	     
+
+Total = 495

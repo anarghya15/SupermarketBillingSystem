@@ -1,0 +1,6 @@
+Product Number	   Product Name		Rate	   Quantity	   Amount	   Net Amount	   
+103		     Shampoo	     120	     2		     240	     238.8	     
+106		     Mixed Fruit Jam	     80	     1		     80	     79.6	     
+109		     Sugar(per kg)	     90	     2		     180	     178.2	     
+
+Total = 496.6
